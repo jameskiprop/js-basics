@@ -52,5 +52,8 @@ numArr.forEach(function (elementValue, elementIndex) {
 });
 
 // // MAP
+let numArr = [23, 56, 77, 2, 90, 89];
+let numArr2 = [45, 78];
+
 // console.log("");
 // console.log("Using the MAP method:");

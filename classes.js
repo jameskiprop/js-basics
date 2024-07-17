@@ -29,7 +29,7 @@ const studentTwo = new Student("Maurice", "Mwendwa", 20);
 const studentThree = new Student("James", "Kiprop", 21);
 // console.log(studentThree.age);
 
-// Call the printFullaName method of the Student class on two different instances of the class
+// Call the printFullName method of the Student class on two different instances of the class
 studentOne.printFullName();
 studentTwo.printFullName();
 
